@@ -1,0 +1,42 @@
+#fondo{
+    background: rgb(215, 216, 176);   
+}
+#box{
+	position: relative;
+    background: rgb(215, 216, 176)
+    width: 1243px;
+    height: 721px;
+    top: 100px;
+    left: 350px;
+       
+}
+#img-fondo{
+    position: absolute;
+    border-radius: 20px;     
+    
+}
+#img-perfil{
+    position: absolute;
+    left: 516px;
+    top: 120px;
+    border-radius: 50%;
+    border: 5px solid rgb(105, 63, 63);    
+}
+
+#nombre{
+    position: absolute;
+    left: 511px;
+    top: 300px;
+    font-family: 'Lobster', cursive;
+    font-size: 50px;
+    color: rgb(105, 63, 63);
+}
+#direccion{
+    position: absolute;
+    left: 525px;
+    top: 410px;
+    font-family: 'Lobster', cursive;
+    font-size: 25px;
+    color: rgb(105, 63, 63);
+}
+
